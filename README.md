@@ -10,13 +10,17 @@
 
 # \- hello.c
 
+# \- notes.txt
+
 # \- README.md
 
 # 
 
 # \## How to run
 
-# Compile the program using a C compiler.
+# Compile the hello.c file using a C compiler.
+
+# Then run the program.
 
 # 
 
