@@ -28,3 +28,19 @@
 
 # \[GitHub](https://github.com)
 
+\## Usage
+
+
+
+To compile the program, use:
+
+gcc hello.c -o hello
+
+
+
+To run the program:
+
+./hello
+
+
+
